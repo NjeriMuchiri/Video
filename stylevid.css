@@ -42,7 +42,7 @@ h1{
 .hide-preloader{
    z-index:-999;
    visibility:hidden;
-}
+} 
 .switch-btn{
    position:absolute;
    bottom:7%;
@@ -61,7 +61,7 @@ h1{
    font-size:0.85rem;
    cursor:pointer;
    text-transform:capitalize;
-   color:aquamarine;
+   color:#333;
 }
 .switch{
    position:absolute;
@@ -69,7 +69,7 @@ h1{
    height:100%;
    top:0;
    left:0;
-   background:aqua;
+   background:#1e90ff;
    border-radius:20px;
    margin:0;
    display:block;
